@@ -1,0 +1,8 @@
+{
+  "name": "Remix: India Climate Digital Twin",
+  "description": "A high-fidelity climate replica of India powered by satellite data, IMD gridded datasets, and AI forecasting models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
